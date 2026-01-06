@@ -1,4 +1,6 @@
-# Trabalho Final (IA) —(Adult + Bank Marketing + Credit Card)
+# Trabalho Final (IA) — (Adult + Bank Marketing + Credit Card)
+# Alunos: Gustavo Francisco S. S. França, Mauricio Cesar Cetrangolo, Everton Ferreira de Lima
+
 
 3 datasets públicos via **Fairlearn** (download automático):
 1) Adult — alvo: renda >50K; sensível: `sex`
